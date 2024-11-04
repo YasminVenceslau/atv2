@@ -7,7 +7,7 @@ const resultado = calcularMult(5, 6);
 console.log(resultado);
 
 //funcao nome
-function saudacao(nome: string,): string {
+function saudacao(nome: string): string {
     return `Olá ${nome}`;
 };
 const digiteNome = "Marcela";
